@@ -1,6 +1,5 @@
-# I WANTED TO GET RICH, BUT I FAILED
-
-*Is there a way to predict a random phenomenon?*
+#Is there a way to predict a random phenomenon?*
+* I WANTED TO GET RICH, BUT I FAILED
 
 * About this project:
 1. Starting the web scraping, you have to run the firts code:
