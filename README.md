@@ -5,4 +5,4 @@
 
 * About this project:
 ⋅⋅⋅ Starting the web scraping, you have to run the firts code:
-	[Take Roll](/master/takeroll.py)
+	[Take Roll](/takeroll.py)
