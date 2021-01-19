@@ -12,3 +12,5 @@
 
 3. At the final, lets predict the next key from the roullet:
 	1. [Machine Learning](/machinelearn.py)
+
+## The answer is no. I couldn't predict the next roulette key :(
